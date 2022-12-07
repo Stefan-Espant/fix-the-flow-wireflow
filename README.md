@@ -1,4 +1,4 @@
-# Hoe de developer door een feedback function zijn reactie achter kan laten.
+# Hoe de developer door een feedback function hun reactie achter kan laten.
 <!-- Geef je opdracht een titel en schrijf in één zin wat het is -->
 
 ## Developer
