@@ -13,7 +13,8 @@ De gebruiker die feedback kan geven hoe hij of zij de tool vind en dat kan laten
 
 ## Wireflow
 <!-- Toon de wireflow -->
-<img width="960" alt="Schermafbeelding 2022-12-06 om 11 10 33" src="https://user-images.githubusercontent.com/89298385/205882493-be58ca42-5792-4571-97c8-00b6b0b3a10f.png">
+<img width="762" alt="Schermafbeelding 2022-12-07 om 09 35 26" src="https://user-images.githubusercontent.com/89298385/206128988-655602f2-dd7e-4400-8bbd-0a2ed360ea81.png">
+
 
 ## Bronnen
 [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
